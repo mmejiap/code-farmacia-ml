@@ -1,0 +1,174 @@
+173|7
+101|101_CRUZ _VERDE _DOMICILIOS _CEDRITOS|Domicilios|Bogota|Bogota|7|86|452101
+104|104_FARMA_CENTRAL_PREP_BOG|Central de Preparación de Mezclas|Bogota|Bogota|7|167|48203
+109|109_CRUZ_VERDE_CALLE_56|Sucursales Venta Ciudades|Bucaramanga|Bucaramanga |6|17|2472104
+110|110_CRUZ_VERDE_PONTEVEDRA|Sucursales Venta Bogotá|Bogota|Bogota|6|8|4499783
+111|111_FARMA_CENTRAL_PREP_CSB|Central de Preparación de Mezclas|Cali|Cali |7|170|14679
+113|113_CRUZ_VERDE_SAN_DIEGO|Sucursales Venta Ciudades|Medellin|Medellín |7|12|3449093
+115|115_CRUZ_VERDE_PRADO_74|Sucursales Venta Ciudades|Costa|Barranquilla |6|16|2679032
+116|116_ CRUZ_VERDE_JUMBO_VALLEDUPAR|Carrefour|Costa|Valledupar |7|136|131822
+117|117_CRUZ_VERDE_POPAYAN|Sucursales Venta Ciudades|Cali|Popayán |7|59|807116
+118|118_CRUZ_VERDE_SINCELEJO|Sucursales Venta Ciudades|Costa|Sincelejo |6|79|488138
+119|119_CRUZ_VERDE_SANTA_MARTA|Sucursales Venta Ciudades|Costa|Santa Marta |7|30|1566296
+120|120_CRUZ_VERDE_ROOSEVELT|Sucursales Venta Ciudades|Cali|Cali |6|4|5625945
+121|121_CRUZ_VERDE_MONTERIA|Sucursales Venta Ciudades|Costa|Montería |6|75|522705
+122|122_CRUZ_VERDE_MANGA|Sucursales Venta Ciudades|Costa|Cartagena |6|39|1279633
+123|123_CRUZ_VERDE_GUAYACANES|Sucursales Venta Ciudades|Medellin|Manizales |7|28|1623633
+124|124_CRUZ_VERDE_TULUA|Sucursales Venta Ciudades|Cali|Tuluá |6|99|294825
+125|125_CRUZ_VERDE_SAN_SIMON|Sucursales Venta Ciudades|Bogota|Ibagué |7|18|2387839
+126|126_CRUZ_VERDE_CENTRO_CHIA|Sucursales Venta Ciudades|Bogota|Chia |7|27|1663592
+127|127_CRUZ_VERDE_PEREIRA|Sucursales Venta Ciudades|Medellin|Pereira |7|42|1191298
+128|128_ CRUZ_VERDE_METRO_ZIPAQUIRA|Carrefour|Bogota|Zipaquirá |7|119|196128
+129|129_CRUZ_VERDE_LOS_CRISTALES|Sucursales Venta Ciudades|Bogota|Tunja |6|60|784287
+130|130_CRUZ_VERDE_QUIRINAL|Sucursales Venta Ciudades|Bogota|Neiva |6|33|1497243
+131|131_CRUZ_VERDE_ROSETAL|Sucursales Venta Ciudades|Bucaramanga|Cúcuta |6|46|1154255
+132|132_ CRUZ_VERDE_METRO_RIOHACHA|Carrefour|Costa|Riohacha |7|110|219218
+133|133_CRUZ_VERDE_AVENIDA_BOLIVAR|Sucursales Venta Ciudades|Medellin|Armenia (Q)|6|25|1804925
+134|134_CRUZ_VERDE_VILLAVICENCIO|Sucursales Venta Ciudades|Bogota|Villavicencio |7|26|1752764
+135|135_CRUZ_VERDE_PALMIRA|Sucursales Venta Ciudades|Cali|Palmira |6|53|930627
+136|136_CRUZ_VERDE_VALLE_DE_ATRIZ|Sucursales Venta Ciudades|Cali|Pasto |7|40|1258742
+137|137_CRUZ_VERDE_FUSAGASUGA|Sucursales Venta Ciudades|Bogota|Fusagasugá |7|62|778859
+138|138_CRUZ_VERDE_HONDA|Sucursales Venta Ciudades|Bogota|Honda |6|83|465656
+139|139_CRUZ_VERDE_FLORENCIA|Sucursales Venta Ciudades|Bogota|Florencia |6|113|216293
+141|141_CRUZ_VERDE_QUIBDO|Sucursales Venta Ciudades|Medellin|Quibdó |6|123|184732
+142|142_CRUZ_VERDE_SOGAMOSO|Sucursales Venta Ciudades|Bogota|Sogamoso |6|81|470880
+143|143_CRUZ_VERDE_FACATATIVA|Sucursales Venta Ciudades|Bogota|Facatativá |6|77|512247
+144|144_CRUZ_VERDE_GIRARDOT|Sucursales Venta Ciudades|Bogota|Girardot |6|50|960560
+145|145_CRUZ_VERDE_VILLETA|Sucursales Venta Ciudades|Bogota|Villeta |6|73|567366
+146|146_CRUZ_VERDE_CHIQUINQUIRA|Sucursales Venta Ciudades|Bogota|Chiquinquira |6|106|241401
+147|147_CRUZ_VERDE_INNOVO|Sucursales Venta Ciudades|Bogota|Duitama |7|84|459876
+148|148_FARMASANITAS_IPIALES|Sucursales Venta Ciudades|Cali|Ipiales |6|124|175935
+149|149_CRUZ_VERDE_SAN_ANDRES|Sucursales Venta Ciudades|Bogota|San Andrés Isla |7|43|1172141
+151|151_CRUZ_VERDE_ANTIGUO_COUNTRY|Sucursales Venta Bogotá|Bogota|Bogota|7|44|1167939
+152|152_CRUZ_VERDE_NORTE|Sucursales Venta Ciudades|Cali|Cali |7|35|1439265
+154|154_CRUZ_VERDE_CAE |Sucursales Venta Bogotá|Bogota|Bogota|6|41|1211448
+155|155_CRUZ_VERDE_SALITRE|Sucursales Venta Bogotá|Bogota|Bogota|7|2|7987948
+156|156_CRUZ_VERDE_CALLE_80|Sucursales Venta Bogotá|Bogota|Bogota|6|6|5043070
+157|157_CRUZ_VERDE_ZONA_IN|Sucursales Venta Bogotá|Bogota|Bogota|6|3|6507191
+158|158_CRUZ_VERDE_SUBA|Sucursales Venta Bogotá|Bogota|Bogota|6|13|3093324
+160|160_CRUZ_VERDE_SANTA_BARBARA|Sucursales Venta Bogotá|Bogota|Bogota|6|10|3725443
+161|161_CRUZ_VERDE_PUNTO_CLAVE|Sucursales Venta Ciudades|Medellin|Medellín |7|9|3833188
+162|162_CRUZ_VERDE_CABECERA|Sucursales Venta Ciudades|Bucaramanga|Bucaramanga |7|24|1815382
+163|163_CRUZ_VERDE_PALERMO|Sucursales Venta Bogotá|Bogota|Bogota|6|22|2059090
+164|164_CRUZ_VERDE_CEDRO_BOLIVAR|Sucursales Venta Bogotá|Bogota|Bogota|7|31|1564267
+165|165_CRUZ_VERDE_TUNAL|Sucursales Venta Bogotá|Bogota|Bogota|6|36|1413632
+166|166_CRUZ_VERDE_CALLE_106|Sucursales Venta Bogotá|Bogota|Bogota|7|19|2291540
+167|167_CRUZ_VERDE_QUINTA_PAREDES|Sucursales Venta Bogotá|Bogota|Bogota|6|70|634597
+168|168_CRUZ_VERDE_CALLE_127|Sucursales Venta Bogotá|Bogota|Bogota|7|15|2776698
+169|169_CRUZ_VERDE_CARDIO_INFANTIL|Sucursales Venta Bogotá|Bogota|Bogota|7|48|1080727
+171|171_CRUZ_VERDE_PLAZA_DE_LAS_AMERICAS|Sucursales Venta Bogotá|Bogota|Bogota|7|51|937247
+172|172_CRUZ_VERDE_CALLE_100|Sucursales Venta Bogotá|Bogota|Bogota|7|87|450923
+174|174_CRUZ_VERDE_PARQUE_TURBAY|Sucursales Venta Ciudades|Bucaramanga|Bucaramanga |7|71|589181
+175|175_CRUZ_VERDE_CAMPESTRE|Sucursales Venta Ciudades|Medellin|Medellín |7|38|1312109
+176|176_FARMASANITAS_SOLEDAD|Sucursales Venta Ciudades|Costa|Soledad|6|68|645018
+177|177_CRUZ_VERDE_VERSALLES|Sucursales Venta Ciudades|Cali|Cali |7|56|872191
+178|178_CRUZ_VERDE_CALLE_72|Sucursales Venta Bogotá|Bogota|Bogota|7|72|580168
+179|179_CRUZ_VERDE_CIUDAD_JARDIN|Sucursales Venta Ciudades|Cali|Cali |7|61|781884
+18|18_FARMA_ALMACEN_CIRUGIA_VILLAVICENCIO|Sucursales Intrahospitalarias|Bogota|Villavicencio |7|157|83324
+180|180_CRUZ_VERDE_INFANTIL|Sucursales Venta Bogotá|Bogota|Bogota|7|97|346844
+181|181_CRUZ _VERDE _FLORESTA|Domicilios|Bogota|Bogota|7|66|657137
+183|183_CRUZ_VERDE_CALLE_84|Sucursales Venta Ciudades|Costa|Barranquilla |7|58|821073
+184|184_CRUZ_VERDE_LAS_DELICIAS|Sucursales Venta Ciudades|Bogota|Chia |7|80|476858
+185|185_CRUZ_VERDE_BOCAGRANDE|Sucursales Venta Ciudades|Costa|Cartagena |7|92|427968
+186|186_CRUZ_VERDE_CALLE_97|Sucursales Venta Bogotá|Bogota|Bogota|7|94|402969
+187|187_CRUZ_VERDE_TORRE_MEDICA|Sucursales Venta Ciudades|Medellin|Medellín |6|120|195174
+188|188_CRUZ_VERDE_TEQUENDAMA|Sucursales Venta Ciudades|Cali|Cali |6|78|511739
+189|189_CRUZ_VERDE_CENTENARIO|Sucursales Venta Ciudades|Cali|Cali |7|74|524250
+19|19_FARMA_ALMACEN_GENERAL_VILLAVICENCIO|Sucursales Intrahospitalarias|Bogota|Villavicencio |7|45|1156323
+190|190_CRUZ _VERDE _DOMICILIOS _MONTEVIDEO|Domicilios|Bogota|Bogota|7|76|514775
+193|193_CRUZ_VERDE_AVIANCA|Sucursales Venta Bogotá|Bogota|Bogota|5|102|248271
+196|196_ CRUZ_VERDE_METRO_SOACHA|Carrefour|Bogota|Soacha |7|111|219176
+197|197_ CRUZ_VERDE_METRO_FONTIBON|Carrefour|Bogota|Bogota|7|160|71088
+198|198_ CRUZ_VERDE_METRO_BOSA|Carrefour|Bogota|Bogota|7|146|103593
+199|199_ CRUZ_VERDE_METRO_BELLO|Carrefour|Medellin|Bello |7|143|118097
+||||||1|19821717
+200|200_ CRUZ_VERDE_JUMBO_CRA_65|Carrefour|Medellin|Medellín |7|117|202439
+201|201_ CRUZ_VERDE_JUMBO_TUNJA|Carrefour|Bogota|Tunja |7|140|123969
+202|202_ CRUZ_VERDE_JUMBO_VALLE_DEL_LILI|Carrefour|Cali|Cali |7|107|226164
+215|215_ CRUZ_VERDE_JUMBO_POPAYAN|Carrefour|Cali|Popayán |7|126|168361
+224|224_ CRUZ_VERDE_JUMBO_ALTO_PRADO|Carrefour|Costa|Barranquilla |7|100|277620
+225|225_ CRUZ_VERDE_METRO_AUTOPISTA_SUR|Carrefour|Bogota|Bogota|7|149|99385
+226|226_ CRUZ_VERDE_METRO_20_DE_JULIO|Carrefour|Bogota|Bogota|7|159|73751
+229|229_ CRUZ_VERDE_JUMBO_SUBA|Carrefour|Bogota|Bogota|7|105|245074
+235|235_FARMA_FARMACIA_INTERNA_CLINICA_COLINA|Sucursales Intrahospitalarias|Bogota|Bogota|7|49|1016544
+240|240_FARMA_ALM_CIRUGIA_CLINICA_PORTO_AZUL|Sucursales Intrahospitalarias|Costa|Puerto Colombia |7|135|132248
+241|241_FARMA_ALM_GENERAL_CLINICA_PORTO_AZUL|Sucursales Intrahospitalarias|Costa|Puerto Colombia |7|47|1110438
+243|243_FARMA_ALM_CIRUGIA_CLINICA_COLINA|Sucursales Intrahospitalarias|Bogota|Bogota|7|131|138877
+245|245_ CRUZ_VERDE_JUMBO_CALLE_170|Carrefour|Bogota|Bogota|7|103|247692
+248|248_ CRUZ_VERDE_JUMBO_CALLE_80|Carrefour|Bogota|Bogota|7|104|246054
+249|249_ CRUZ_VERDE_JUMBO_GIRARDOT|Carrefour|Bogota|Girardot |7|163|65863
+250|250_ CRUZ_VERDE_METRO_NEIVA|Carrefour|Bogota|Neiva |7|162|66901
+251|251_CRUZ_VERDE_CALLE_54|Sucursales Venta Bogotá|Bogota|Bogota|7|29|1594241
+252|252_ CRUZ_VERDE_JUMBO_SANTA_ANA|Carrefour|Bogota|Bogota|7|90|441191
+253|253_ CRUZ_VERDE_METRO_BANDERAS|Carrefour|Bogota|Bogota|7|156|84662
+255|255_FARMA_ALMACEN_CIRUGIA_CUC|Sucursales Intrahospitalarias|Bogota|Bogota|7|96|371853
+257|257_ CRUZ_VERDE_JUMBO_AMERICANO|Carrefour|Costa|Barranquilla |7|132|137709
+258|258_ CRUZ_VERDE_JUMBO_LIMONAR|Carrefour|Cali|Cali |7|114|216090
+26|26_FARMA_FARMACIA_INTERNA_CSB|Sucursales Intrahospitalarias|Cali|Cali |7|57|842603
+260|260_ CRUZ_VERDE_METRO_PASTO|Carrefour|Cali|Pasto |7|118|202338
+261|261_ CRUZ_VERDE_METRO_SAN_CAYETANO|Carrefour|Bogota|Bogota|7|145|103599
+262|262_ CRUZ_VERDE_JUMBO_HAYUELOS|Carrefour|Bogota|Bogota|7|98|323287
+263|263_ CRUZ_VERDE_JUMBO_CRA_30|Carrefour|Bogota|Bogota|7|139|124571
+264|264_ CRUZ_VERDE_METRO_IBAGUE|Carrefour|Bogota|Ibagué |7|137|129962
+265|265_ CRUZ_VERDE_METRO_ALQUERIA|Carrefour|Bogota|Bogota|7|164|51065
+266|266_ CRUZ_VERDE_JUMBO_RIONEGRO|Carrefour|Medellin|Rionegro (ANT)|7|142|118866
+268|268_CRUZ_VERDE_CENTRO_INTERNACIONAL|Sucursales Venta Bogotá|Bogota|Bogota|7|55|890510
+27|27_FARMA_CLINICA_VERSALLES|Sucursales Intrahospitalarias|Cali|Cali |7|32|1521391
+270|270_CRUZ_VERDE_METRO_CABECERA_EXPRESS|Mercadefam|Bucaramanga|Bucaramanga |7|158|81856
+272|272_CRUZ_VERDE_METRO_REAL|Mercadefam|Bucaramanga|Bucaramanga |7|127|155133
+274|274_CRUZ_VERDE_METRO_COLSEGURO|Mercadefam|Bucaramanga|Bucaramanga |7|150|97006
+281|281_FARMA_URGENCIAS_CLINICA_VERSALLES|Sucursales Intrahospitalarias|Cali|Cali |7|130|140463
+287|287_FARMA_ALMACEN_GENERAL_CRS|Sucursales Intrahospitalarias|Bogota|Bogota|7|52|932388
+288|288_FARMA_ALMACEN_GENERAL_CUC|Sucursales Intrahospitalarias|Bogota|Bogota|7|37|1330658
+289|289_CRUZ_VERDE_JUMBO_MEGA_MALL|Mercadefam|Bucaramanga|Bucaramanga |7|152|91487
+293|293_CRUZ_VERDE_METRO_FLORIDA_BLANCA|Mercadefam|Bucaramanga|Floridablanca |7|151|94916
+294|294_CRUZ_VERDE_JUMBO_CABECERA_TIENDA|Mercadefam|Bucaramanga|Bucaramanga |7|85|452746
+297|297_CRUZ_VERDE_PARQUE_CARACOLI|Sucursales Venta Ciudades|Bucaramanga|Floridablanca |7|63|766041
+299|299_CRUZ_VERDE_KENNEDY|Sucursales Venta Bogotá|Bogota|Bogota|7|21|2110480
+305|305_CRUZ_VERDE_LAS_VELAS|Sucursales Venta Ciudades|Cali|Cali |6|134|134137
+306|306_FARMA_CLINICA_CAMPO_ABIERTO|Sucursales Intrahospitalarias|Bogota|Bogota|6|166|48570
+307|307_CRUZ_VERDE_USAQUEN|Sucursales Venta Bogotá|Bogota|Bogota|7|34|1463845
+308|308_CRUZ_VERDE_TOBERIN|Sucursales Venta Bogotá|Bogota|Bogota|7|23|2021567
+309|309_CRUZ_VERDE_METRO_SAN_FRANCISCO|Carrefour|Costa|Barranquilla |7|148|99491
+311|311_CRUZ_VERDE_METRO_PRADO|Carrefour|Medellin|Medellín |7|125|170247
+312|312_CRUZ_VERDE_JUMBO_YOPAL|Carrefour|Bogota|Yopal |7|91|435557
+315|315_CRUZ_VERDE_CANCEROLOGICO|Sucursales Intrahospitalarias|Bogota|Bogota|7|7|4563274
+323|323_FARMA_UNIDAD_RENAL_EL_BOSQUE|Sucursales Intrahospitalarias|Bogota|Bogota|6|116|203282
+367|367_CRUZ_VERDE_ILARCO|Sucursales Venta Bogotá|Bogota|Bogota|7|129|141761
+369|369_CRUZ_VERDE_MORATO|Sucursales Venta Bogotá|Bogota|Bogota|7|5|5372533
+370|370_CRUZ_VERDE_TORRE_PREMIUM|Sucursales Venta Ciudades|Costa|Valledupar |7|65|660492
+374|374_FARMA_CRUZ_VERDE_CALLE _90|Sucursales Venta Bogotá|Bogota|Bogota|7|169|43471
+378|378_CRUZ_VERDE_AVENIDA_LAS_VILLAS|Sucursales Venta Bogotá|Bogota|Bogota|7|93|403077
+379|379_FARMASANITAS_MINGUEO|Sucursales Venta Ciudades|Costa|Mingueo|6|171|11515
+380|380_CRUZ_VERDE_IBAGUE_LA_MACARENA|Sucursales Venta Ciudades|Bogota|Ibagué |7|141|121146
+381|381_CRUZ_VERDE_DOMICILIOS_CALLE_72|Domicilios|Bogota|Bogota|7|69|637990
+382|382_DROGUERIA_CRUZ_VERDE_ZIPAQUIRA_CENTRO|Sucursales Venta Ciudades|Bogota|Zipaquirá |7|122|188990
+383|383_ CRUZ_VERDE_WORLD TRADE CENTER|Sucursales Venta Bogotá|Bogota|Bogota|7|108|225221
+385|385_CRUZ_VERDE_IMBANACO|Sucursales Venta Ciudades|Cali|Cali|7|155|86519
+386|386_CRUZ_VERDE_LA_FLORA_INDUSTRIAL|Sucursales Venta Ciudades|Cali|Cali|6|95|390064
+387|387_CRUZ_VERDE_ METRO SIMON BOLIVAR|Carrefour|Cali|Cali|7|168|46515
+39|39_FARMA_CLINICA_CECIMIN|Sucursales Intrahospitalarias|Bogota|Bogota|7|101|268891
+47|47_FARMA_ALMACEN_CIRUGIA_CRS|Sucursales Intrahospitalarias|Bogota|Bogota|7|109|222579
+471|471_CRUZ_VERDE_IBEROAMERICA|Sucursales Venta Ciudades|Costa|Barranquilla |7|89|447205
+474|474_FARMA_ALMACEN_CLINICA_IBEROAMERICANA|Sucursales Intrahospitalarias|Costa|Barranquilla |7|88|450057
+475|475_FARMA_ALM_CIRUGIA_CLINICA_IBEROAMERICANA|Sucursales Intrahospitalarias|Costa|Barranquilla |7|138|129774
+478|478_FARMACIA_CLINICENTRO_TEQUENDAMA|Sucursales Intrahospitalarias|Cali|Cali |7|112|217325
+479|479_FARMACIA_CLINICENTRO_VIEJO_PRADO|Sucursales Intrahospitalarias|Costa|Barranquilla |7|165|48713
+48|48_FARMA_ALMACEN_CIRUGIA_CSB|Sucursales Intrahospitalarias|Cali|Cali |7|147|102982
+||||||82|470044
+483|483_FARMACIA_CLINICENTRO_PARQUE_TURBAY|Sucursales Intrahospitalarias|Bucaramanga|Bucaramanga |7|128|149897
+484|484_FARMACIA GENERAL SAN MARCOS|Sucursales Intrahospitalarias|Cali|Cali |7|54|916357
+487|487_FARMC_CLINICA_COLSANITAS_103|Sucursales Intrahospitalarias|Bogota|Bogota|7|115|206195
+97|97_CRUZ_VERDE_CHICO|Sucursales Venta Bogotá|Bogota|Bogota|7|14|2997619
+98|98_CRUZ_VERDE_BELMIRA|Sucursales Venta Bogotá|Bogota|Bogota|7|20|2217960
+20|20_FARMA_CLINICA_COUNTRY|Sucursales Intrahospitalarias|Bogota|Bogota|7|11|3516799
+||||||153|90832
+||||||173|174
+||||||121|193936
+||||||172|5525
+||||||154|90382
+||||||67|645656
+384|384_CRUZ_VERDE_PUENTE ARANDA|Sucursales Venta Bogotá|Bogota|Bogota|7|64|669810
+388|388_CRUZ_VERDE_ UNICENTRO_CALI|Sucursales Venta Ciudades|Cali|Cali|7|161|68801
+485|485_FARMACIA_URGENCIAS_CENTRAL_DE_URGENCIAS |Sucursales Intrahospitalarias|Bogota|Bogota|7|133|136204
+389|389_CRUZ_VERDE_ RESTREPO|Sucursales Venta Bogotá|Bogota|Bogota|7|144|116183
